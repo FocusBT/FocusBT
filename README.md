@@ -11,6 +11,8 @@
 
 - 🔭 I’m currently working on **StableDoc**
 
+- 🔭 I’m currently working on [LIVE-MINT-NFT-Marketplace]( https://github.com/FocusBT/Live-Mint-NFT-Marketplace-SmartContracts)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/waseeabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waseeabd" height="30" width="40" /></a>
