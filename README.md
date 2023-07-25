@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **ZERO-KNOWLEDGE ROLLUPS**
 
-- 🔭 I’m currently working on **StableDoc**
-
-- 🔭 I’m currently working on [LIVE-MINT-NFT-Marketplace]( https://github.com/FocusBT/Live-Mint-NFT-Marketplace-SmartContracts)
+- 🔭 I’m currently working with [GipperPay](https://twitter.com/Gipperpayments)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
