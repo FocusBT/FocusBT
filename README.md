@@ -5,11 +5,9 @@
 <img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /> 
 <p align="left"> <a href="https://twitter.com/waseeabd" target="blank"><img src="https://img.shields.io/twitter/follow/waseeabd?logo=twitter&style=for-the-badge" alt="waseeabd" /></a> </p>
 
-- 🔭 I’m currently working on [NEST-JS](https://github.com/FocusBT/nestJS-learning)
+- 🌱 I’m currently learning **Solana**
 
-- 🌱 I’m currently learning **ZERO-KNOWLEDGE ROLLUPS**
-
-- 🔭 I’m currently working with [GipperPay](https://twitter.com/Gipperpayments)
+- 🔭 I’m currently working with [ByteCorp](https://www.bytecorp.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
