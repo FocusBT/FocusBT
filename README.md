@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm wasi</h1>
 <img width="100%" src="https://media.discordapp.net/attachments/741545437747478548/1071286004473921566/wasee_gig1_4.png?width=720&height=431" />
-<h3 align="center">A passionate Blockchain developer</h3>
+<h3 align="center">A passionate Backend and Blockchain developer</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" /> 
 <p align="left"> <a href="https://twitter.com/waseeabd" target="blank"><img src="https://img.shields.io/twitter/follow/waseeabd?logo=twitter&style=for-the-badge" alt="waseeabd" /></a> </p>
 
