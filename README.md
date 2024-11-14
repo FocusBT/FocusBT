@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, This is Wasee</h1>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=pravindurairaj.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/waseeabd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waseeabd" height="30" width="40" /></a>
